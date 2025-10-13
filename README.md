@@ -60,25 +60,45 @@ Includes a Logout button to return to the Login screen.
 
 🏗️ Project Structure Lab2LoginApp/ 
 ├── app/ 
+
 │ ├── src/ 
+
 │ │ ├── main/ 
+
 │ │ │ ├── AndroidManifest.xml 
+
 │ │ │ ├── java/com/example/lab2loginapp/ 
+
 │ │ │ │ ├── MainActivity.kt 
+
 │ │ │ │ └── SecondActivity.kt 
+
 │ │ │ ├── res/ 
+
 │ │ │ │ ├── layout/ 
+
 │ │ │ │ │ ├── activity_main.xml 
+
 │ │ │ │ │ └── activity_second.xml 
+
 │ │ │ │ ├── drawable/ 
+
 │ │ │ │ │ └── app_logo.png 
+
 │ │ │ │ ├── values/ 
+
 │ │ │ │ │ ├── colors.xml 
+
 │ │ │ │ │ ├── strings.xml 
+
 │ │ │ │ │ └── styles.xml 
+
 │ ├── build.gradle 
+
 │ └── settings.gradle 
+
 ├── README.md
+
 
 💬 Code Summary
 
