@@ -1,6 +1,12 @@
-**📱 MAD204-01 – Lab 2: Login + Greeting App
-**
-Student Name: Darshilkumar Karkar Student ID: A00203357 Course: MAD204 – Java Development for Mobile Applications Semester: Fall 2025 Date: 14 October 2025
+📱 MAD204-01 – Lab 2: Login + Greeting App
+
+*************************************************************************************************************************************************************
+
+Student Name: Darshilkumar Karkar 
+Student ID: A00203357 
+Course: MAD204 – Java Development for Mobile Applications 
+Semester: Fall 2025 
+Date: 14 October 2025
 
 🧠 Overview
 
