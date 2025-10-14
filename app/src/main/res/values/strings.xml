@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MAD204-LAB2-Darshilkumar</string>
+    <string name="app_name">Lab2LoginApp</string>
+    <string name="login_title">Login</string>
 </resources>
